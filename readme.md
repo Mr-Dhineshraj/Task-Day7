@@ -1,0 +1,1 @@
+This is the Day 7 task using map,filter & Reduce.
